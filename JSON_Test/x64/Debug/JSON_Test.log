@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  test.cpp
+test.cpp(14): warning C4129: 'D': unrecognized character escape sequence
+test.cpp(14): warning C4129: 'R': unrecognized character escape sequence
+test.cpp(14): warning C4129: 'C': unrecognized character escape sequence
+test.cpp(14): warning C4129: 'c': unrecognized character escape sequence
+  JSONValue.cpp
+JSON_Reader\JSONValue.cpp(947): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  JSON.cpp
+JSON_Reader\JSON.cpp(284): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
